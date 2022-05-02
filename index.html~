@@ -88,11 +88,9 @@
 
       <footer>
       <div>
-          <p>© Alicia Crisp 2022</p>
+          <p> class= "copyright">© Alicia Crisp 2022</p>
         </div>
       </footer>
-
-    </div>
   </body>
 
 </html>
