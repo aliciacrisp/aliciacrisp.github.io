@@ -120,7 +120,7 @@ object-position: center
 
 .mins {
   display: inline-block;
-  font-family: 'Lexend Deca', sans-serif;
+  font-family:'Lexend Deca', sans-serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -160,7 +160,7 @@ footer div{
   main {
     grid-template-columns: 1fr;
   }
-  
+
 a {
   color: #48cae4;
 }
