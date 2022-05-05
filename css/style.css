@@ -96,11 +96,6 @@ object-position: center
 <<<<<<< HEAD
 .project {
   box-shadow: 0 0px 1px 0 rgba(0 0 0 / 40%);
-=======
-.recipe {
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
->>>>>>> parent of 7eb0698 (website cleanup)
-  width: 100%;
 }
 
 a {
@@ -138,7 +133,7 @@ a {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 10px 20px 20px 20px;
+  padding: 0 20px 20px 20px;
 }
 
 
